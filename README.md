@@ -1,1 +1,1 @@
-# C-na-pr-tica
+Algumas das atividades em C que fiz no semestre!
